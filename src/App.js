@@ -2,6 +2,7 @@
 import './App.css';
 
 
+
 function App() {
   return (
     <div className="App">
@@ -23,6 +24,53 @@ function App() {
           </ul>
         </div>
       </header>
+      <section class="main">
+        <div id="galeria" class="galeria">
+          <div class="galeria__item">
+            <img src="https://lagunalawnservice.com/img/galeria1.jpg" alt="mulch" loading="lazy"/>
+          </div>
+          <div class="galeria__item">
+            <img src="https://lagunalawnservice.com/img/galeria2.jpg" alt="mulch" loading="lazy"/>
+          </div>
+          <div class="galeria__item">
+            <img src="https://lagunalawnservice.com/img/galeria3.jpg" alt="green grass" loading="lazy"/>
+          </div>
+          <div class="galeria__item">
+            <img src="https://lagunalawnservice.com/img/galeria4.jpg" alt="mulch" loading="lazy"/>
+          </div>
+          <div class="galeria__item">
+            <img src="https://lagunalawnservice.com/img/galeria5.jpg" alt="mulch" loading="lazy"/>
+          </div>
+          <div class="galeria__item">
+            <img src="https://lagunalawnservice.com/img/galeria6.jpg" alt="mulch" loading="lazy"/>
+          </div>
+          <div class="galeria__item">
+            <img src="https://lagunalawnservice.com/img/galeria7.jpg" alt="mulch" loading="lazy"/>
+          </div>
+          <div class="galeria__item">
+            <img src="https://lagunalawnservice.com/img/galeria8.jpg" alt="mulch" loading="lazy"/>
+          </div>
+          <div class="galeria__item">
+            <img src="https://lagunalawnservice.com/img/galeria9.jpg" alt="green grass" loading="lazy"/>
+          </div>
+          <div class="galeria__item">
+            <img src="https://lagunalawnservice.com/img/galeria10.jpg" alt="mulch" loading="lazy"/>
+          </div>
+          <div class="galeria__item">
+            <img src="https://lagunalawnservice.com/img/galeria11.jpg" alt="green grass" loading="lazy"/>
+          </div>
+          <div class="galeria__item">
+            <img src="https://lagunalawnservice.com/img/galeria12.jpg" alt="green grass" loading="lazy"/>
+          </div>
+          <div class="galeria__item">
+            <img src=" https://lagunalawnservice.com/img/mantillo1.jpg" alt="green grass" loading="lazy"/>
+          </div>
+          <div class="galeria__item">
+            <img src="https://lagunalawnservice.com/img/galeria14.jpg" alt="green grass" loading="lazy"/>
+          </div>
+        </div>
+      </section>
+
     </div>
   );
 }

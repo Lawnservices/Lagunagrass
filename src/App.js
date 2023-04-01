@@ -24,6 +24,9 @@ function App() {
           </ul>
         </div>
       </header>
+       <h2>Miguel Lawn Services</h2>
+       <h2>Call-Now (240)8838479</h2>
+
       <section class="main">
         <div id="galeria" class="galeria">
           <div class="galeria__item">

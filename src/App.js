@@ -9,7 +9,7 @@ function App() {
       <header>
         <div class="header">
           <ul>
-            <li><a href="https://lagunalawnservice.com/">Home</a></li>
+            <li><a href="#">Home</a></li>
             <li><a href="https://lagunalawnservice.com/prices">Prices</a></li>
             <div class="down">
               <a href='.' id="vermas">More</a>
